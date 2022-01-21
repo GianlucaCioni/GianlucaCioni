@@ -13,6 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucacioni&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 ## Top projects
 [![Cv Creator](https://github-readme-stats.vercel.app/api/pin/?username=gianlucacioni&theme=gotham&repo=cv-creator)](https://github.com/gianlucacioni/cv-creator)
 <br>
@@ -24,7 +25,7 @@
 <br>
 
 [![Cv Creator](https://github-readme-stats.vercel.app/api/pin/?username=gianlucacioni&theme=gotham&repo=weatherapp)](https://github.com/gianlucacioni/weatherapp)
-
+--->
 
 
 
