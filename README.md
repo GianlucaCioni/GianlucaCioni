@@ -1,7 +1,7 @@
 # Hi, My name is **Gianluca Cioni** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 - 🌱 Currently **learning** with [The Odin Project](https://www.theodinproject.com/)
-- 💞️ Happy **collaborate** on projects
+- 💞️ Happy to **collaborate** on projects
 - 💻 **Open to work**
 - 📫 You may **reach me** by email [gianlucacioni93@gmail.com](mailto:gianlucacioni93@gmail.com)
 - 🐦 Feel free to **check out** my Twitter [@gianlucacioni93](https://twitter.com/gianlucacioni93/)
