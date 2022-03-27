@@ -1,6 +1,6 @@
 # Hi, My name is **Gianluca Cioni** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-- 🌱 Currently **learning** Node.js with [**The Odin Project**](https://www.theodinproject.com/)
+- 🌱 Currently **learning** Node.js with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 - 💞️ Happy to **collaborate** on projects
 - 💻 Working for [**Green Vulcano Technologies**](https://www.greenvulcano.com/)
 - 📫 You may **reach me** by email [**gianlucacioni93@gmail.com**](mailto:gianlucacioni93@gmail.com)
